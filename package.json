@@ -4,5 +4,12 @@
   "main": "index.js",
   "repository": "https://github.com/AndrewUsher/es6-pong.git",
   "author": "Andrew Usher <andrewusher00@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "build": "snowpack build",
+    "dev": "snowpack dev"
+  },
+  "dependencies": {
+    "snowpack": "3.1.2"
+  }
 }

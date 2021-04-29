@@ -10,6 +10,6 @@
     "dev": "snowpack dev"
   },
   "dependencies": {
-    "snowpack": "3.1.2"
+    "snowpack": "3.3.7"
   }
 }
